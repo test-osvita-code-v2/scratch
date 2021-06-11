@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://test-osvita-code-v2.github.io/scratch/scratch/</id>
+  <title>Osvita-Code | Програмування Scratch</title>
+  <subtitle>Scratch programming by osvita-code</subtitle>
+  <author>
+    <name>RenatTOP</name>
+  </author>
+  <updated>2021-06-11T16:44:50.356Z</updated>
+  <generator>@mr-hope/vuepress-plugin-feed</generator>
+  <link rel="self" href="https://test-osvita-code-v2.github.io/scratch/scratch/atom.xml"/>
+  <link rel="alternate" href="https://test-osvita-code-v2.github.io/scratch/scratch/"/>
+  <rights>Copyright by RenatTOP</rights>
+  <contributor>
+    <name>RenatTOP</name>
+  </contributor>
+  <entry>
+    <title type="html">Scratch</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/"/>
+    <updated>2021-06-11T16:47:38.907Z</updated>
+    <summary type="html"><![CDATA[Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="scratch"> Scratch</h1>
+<Redirect to="/lessons/" />]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 10: Ловець кульок</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/"/>
+    <updated>2021-06-11T16:47:39.010Z</updated>
+    <summary type="html"><![CDATA[Ловець кульок Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-10-ловець-кульок"> Урок 10: Ловець кульок</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/10.pdf" width="840px" height="3280px" />]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 3: Чарівна куля</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/"/>
+    <updated>2021-06-11T16:47:39.056Z</updated>
+    <summary type="html"><![CDATA[Чарівна куля Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-3-чарівна-куля"> Урок 3: Чарівна куля</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/3.pdf" width="840px" height="2200px" />
+<p><a href="https://scratch.mit.edu/projects/350573440" target="_blank" rel="noopener noreferrer">Код проєкту &quot;Чарівна куля&quot;</a></p>
+]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 2: Кіт та миша</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/"/>
+    <updated>2021-06-11T16:47:39.056Z</updated>
+    <summary type="html"><![CDATA[Кіт та миша Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-2-кіт-та-миша"> Урок 2: Кіт та миша</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf" width="840px" height="4350px" />
+]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 5: Полювання на кажанів</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/"/>
+    <updated>2021-06-11T16:47:39.057Z</updated>
+    <summary type="html"><![CDATA[Полювання на кажанів Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-5-полювання-на-кажанів"> Урок 5: Полювання на кажанів</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/5.pdf" width="840px" height="3280px" />
+<p><a href="https://scratch.mit.edu/projects/354138435" target="_blank" rel="noopener noreferrer">Код проєкту &quot;Полювання на кажанів&quot;</a></p>
+]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 4: Пінг-понг</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/"/>
+    <updated>2021-06-11T16:47:39.058Z</updated>
+    <summary type="html"><![CDATA[Пінг-понг Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-4-пінг-понг"> Урок 4: Пінг-понг</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/4.pdf" width="840px" height="4350px" />
+<p><a href="https://scratch.mit.edu/projects/351994663" target="_blank" rel="noopener noreferrer">Код проєкту &quot;Пінг-понг&quot;</a></p>
+]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 6: Лабіринт</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/6/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/6/"/>
+    <updated>2021-06-11T16:47:39.058Z</updated>
+    <summary type="html"><![CDATA[Лабіринт Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-6-лабіринт"> Урок 6: Лабіринт</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/6.pdf" width="840px" height="2200px" />
+]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 7: Нахабний краб</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/"/>
+    <updated>2021-06-11T16:47:39.081Z</updated>
+    <summary type="html"><![CDATA[Нахабний краб Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-7-нахабнии-краб"> Урок 7: Нахабний краб</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/7.pdf" width="840px" height="4350px" />]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 8: Метелик</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/"/>
+    <updated>2021-06-11T16:47:39.081Z</updated>
+    <summary type="html"><![CDATA[Метелик Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-8-метелик"> Урок 8: Метелик</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/8.pdf" width="840px" height="3280px" />]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 9: Змійка</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/"/>
+    <updated>2021-06-11T16:47:39.081Z</updated>
+    <summary type="html"><![CDATA[Змійка Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-9-зміика"> Урок 9: Змійка</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/9.pdf" width="840px" height="3280px" />]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Scratch programming</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/"/>
+    <updated>2021-06-11T16:47:39.083Z</updated>
+    <content type="html"><![CDATA[<h1 id="scratch-programming"> Scratch programming</h1>
+<h2 id="навчись-створювати-ігри-зі-scratch"> Навчись створювати ігри зі Scratch</h2>
+<p><img src="https://test-osvita-code-v2.github.io/scratch/assets/images/scratch.jpg" alt="Scratch" /></p>
+<p><em><strong>Scratch</strong></em> — середовище та інтерпретована динамічна візуальна мова програмування, у якій код створюється шляхом маніпулювання графічними блоками. Середовище орієнтовано в першу чергу на дітей та початкове знайомство з основними концепціями та ідеями програмування. Завдяки динамічності, вона дає змогу змінювати код навіть під час виконання. Мова має за мету навчити дітей поняттю програмування і дає можливості створювати ігри, анімації чи музику. Користувачі можуть створювати онлайн-проєкти, ними можна обмінюватися всередині міжнародної спільноти, яка існує в мережі Інтернет. Середовище програмування можна безкоштовно завантажити і вільно використовувати у шкільній чи позашкільній освіті.</p>
+<p>На цьому курсі вас чекає 10 уроків по Scratch.</p>
+]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+  <entry>
+    <title type="html">Урок 1: Загублені в космосі</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/1/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/1/"/>
+    <updated>2021-06-11T16:47:39.084Z</updated>
+    <summary type="html"><![CDATA[Загублені в космосі Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-1-загублені-в-космосі"> Урок 1: Загублені в космосі</h1>
+<p>Спершу вам потрібно зареєструватися та ввійти до https://scratch.mit.edu/, ви це можете зробити на https://scratch.mit.edu/join, вам для реєстрації знадобиться також електронна скринька, якщо у вас її не має, то ви можете створити її на будь-якому ресурсі: protonmail, gmail.com, yahoo тощо.</p>
+<h3 id="створення-проєкту"> Створення проєкту</h3>
+<p><a href="https://scratch.mit.edu/projects/editor/" target="_blank" rel="noopener noreferrer">https://scratch.mit.edu/projects/editor/</a> - кликнувши на цей лінк ви перейдете до створення проєкту.</p>
+<h3 id="переименування-проєкту"> Перейменування проєкту</h3>
+<p>Ось тут ми перейменуємо назву нашого проєкта на іншу.</p>
+<p><img src="https://test-osvita-code-v2.github.io/scratch/assets/images/name.png" alt="name" /></p>
+<p>Ось що вийшло.</p>
+<p><img src="https://test-osvita-code-v2.github.io/scratch/assets/images/rename.png" alt="rename" /></p>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/1.pdf" width="840px" height="4350px" />
+]]></content>
+    <author>
+      <name>RenatTOP</name>
+    </author>
+    <contributor>
+      <name>RenatTOP</name>
+    </contributor>
+    <rights>Copyright by RenatTOP</rights>
+  </entry>
+</feed>
