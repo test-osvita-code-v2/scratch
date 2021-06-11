@@ -6,7 +6,7 @@
   <author>
     <name>RenatTOP</name>
   </author>
-  <updated>2021-06-11T17:10:06.380Z</updated>
+  <updated>2021-06-11T18:47:57.423Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://test-osvita-code-v2.github.io/scratch/scratch/atom.xml"/>
   <link rel="alternate" href="https://test-osvita-code-v2.github.io/scratch/scratch/"/>
@@ -68,14 +68,13 @@
     <rights>Copyright by RenatTOP</rights>
   </entry>
   <entry>
-    <title type="html">Урок 4: Пінг-понг</title>
-    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/</id>
-    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/"/>
+    <title type="html">Урок 2: Кіт та миша</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/"/>
     <updated>2021-06-11T16:51:09.000Z</updated>
-    <summary type="html"><![CDATA[Пінг-понг Scratch]]></summary>
-    <content type="html"><![CDATA[<h1 id="урок-4-пінг-понг"> Урок 4: Пінг-понг</h1>
-<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/4.pdf" width="840px" height="4350px" />
-<p><a href="https://scratch.mit.edu/projects/351994663" target="_blank" rel="noopener noreferrer">Код проєкту &quot;Пінг-понг&quot;</a></p>
+    <summary type="html"><![CDATA[Кіт та миша Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-2-кіт-та-миша"> Урок 2: Кіт та миша</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf" width="840px" height="4350px" />
 ]]></content>
     <author>
       <name>RenatTOP</name>
@@ -87,13 +86,14 @@
     <rights>Copyright by RenatTOP</rights>
   </entry>
   <entry>
-    <title type="html">Урок 2: Кіт та миша</title>
-    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</id>
-    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/"/>
+    <title type="html">Урок 4: Пінг-понг</title>
+    <id>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/</id>
+    <link href="https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/"/>
     <updated>2021-06-11T16:51:09.000Z</updated>
-    <summary type="html"><![CDATA[Кіт та миша Scratch]]></summary>
-    <content type="html"><![CDATA[<h1 id="урок-2-кіт-та-миша"> Урок 2: Кіт та миша</h1>
-<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf" width="840px" height="4350px" />
+    <summary type="html"><![CDATA[Пінг-понг Scratch]]></summary>
+    <content type="html"><![CDATA[<h1 id="урок-4-пінг-понг"> Урок 4: Пінг-понг</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/4.pdf" width="840px" height="4350px" />
+<p><a href="https://scratch.mit.edu/projects/351994663" target="_blank" rel="noopener noreferrer">Код проєкту &quot;Пінг-понг&quot;</a></p>
 ]]></content>
     <author>
       <name>RenatTOP</name>
