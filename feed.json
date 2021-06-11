@@ -14,7 +14,8 @@
       "id": "https://test-osvita-code-v2.github.io/scratch/scratch/",
       "summary": "Scratch",
       "content_html": "<h1 id=\"scratch\"> Scratch</h1>\n<Redirect to=\"/lessons/\" />",
-      "date_modified": "2021-06-11T16:47:38.907Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
@@ -28,7 +29,8 @@
       "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/",
       "summary": "Ловець кульок Scratch",
       "content_html": "<h1 id=\"урок-10-ловець-кульок\"> Урок 10: Ловець кульок</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/10.pdf\" width=\"840px\" height=\"3280px\" />",
-      "date_modified": "2021-06-11T16:47:39.010Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
@@ -42,35 +44,8 @@
       "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/",
       "summary": "Чарівна куля Scratch",
       "content_html": "<h1 id=\"урок-3-чарівна-куля\"> Урок 3: Чарівна куля</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/3.pdf\" width=\"840px\" height=\"2200px\" />\n<p><a href=\"https://scratch.mit.edu/projects/350573440\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Чарівна куля&quot;</a></p>\n",
-      "date_modified": "2021-06-11T16:47:39.056Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 2: Кіт та миша",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/",
-      "summary": "Кіт та миша Scratch",
-      "content_html": "<h1 id=\"урок-2-кіт-та-миша\"> Урок 2: Кіт та миша</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf\" width=\"840px\" height=\"4350px\" />\n",
-      "date_modified": "2021-06-11T16:47:39.056Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 5: Полювання на кажанів",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/",
-      "summary": "Полювання на кажанів Scratch",
-      "content_html": "<h1 id=\"урок-5-полювання-на-кажанів\"> Урок 5: Полювання на кажанів</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/5.pdf\" width=\"840px\" height=\"3280px\" />\n<p><a href=\"https://scratch.mit.edu/projects/354138435\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Полювання на кажанів&quot;</a></p>\n",
-      "date_modified": "2021-06-11T16:47:39.057Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
@@ -84,7 +59,38 @@
       "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/",
       "summary": "Пінг-понг Scratch",
       "content_html": "<h1 id=\"урок-4-пінг-понг\"> Урок 4: Пінг-понг</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/4.pdf\" width=\"840px\" height=\"4350px\" />\n<p><a href=\"https://scratch.mit.edu/projects/351994663\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Пінг-понг&quot;</a></p>\n",
-      "date_modified": "2021-06-11T16:47:39.058Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "RenatTOP"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 2: Кіт та миша",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/",
+      "summary": "Кіт та миша Scratch",
+      "content_html": "<h1 id=\"урок-2-кіт-та-миша\"> Урок 2: Кіт та миша</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf\" width=\"840px\" height=\"4350px\" />\n",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "RenatTOP"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 5: Полювання на кажанів",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/",
+      "summary": "Полювання на кажанів Scratch",
+      "content_html": "<h1 id=\"урок-5-полювання-на-кажанів\"> Урок 5: Полювання на кажанів</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/5.pdf\" width=\"840px\" height=\"3280px\" />\n<p><a href=\"https://scratch.mit.edu/projects/354138435\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Полювання на кажанів&quot;</a></p>\n",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
@@ -98,7 +104,8 @@
       "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/6/",
       "summary": "Лабіринт Scratch",
       "content_html": "<h1 id=\"урок-6-лабіринт\"> Урок 6: Лабіринт</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/6.pdf\" width=\"840px\" height=\"2200px\" />\n",
-      "date_modified": "2021-06-11T16:47:39.058Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
@@ -112,7 +119,8 @@
       "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/",
       "summary": "Нахабний краб Scratch",
       "content_html": "<h1 id=\"урок-7-нахабнии-краб\"> Урок 7: Нахабний краб</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/7.pdf\" width=\"840px\" height=\"4350px\" />",
-      "date_modified": "2021-06-11T16:47:39.081Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
@@ -126,7 +134,8 @@
       "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/",
       "summary": "Метелик Scratch",
       "content_html": "<h1 id=\"урок-8-метелик\"> Урок 8: Метелик</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/8.pdf\" width=\"840px\" height=\"3280px\" />",
-      "date_modified": "2021-06-11T16:47:39.081Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
@@ -140,21 +149,8 @@
       "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/",
       "summary": "Змійка Scratch",
       "content_html": "<h1 id=\"урок-9-зміика\"> Урок 9: Змійка</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/9.pdf\" width=\"840px\" height=\"3280px\" />",
-      "date_modified": "2021-06-11T16:47:39.081Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Scratch programming",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/",
-      "content_html": "<h1 id=\"scratch-programming\"> Scratch programming</h1>\n<h2 id=\"навчись-створювати-ігри-зі-scratch\"> Навчись створювати ігри зі Scratch</h2>\n<p><img src=\"https://test-osvita-code-v2.github.io/scratch/assets/images/scratch.jpg\" alt=\"Scratch\" /></p>\n<p><em><strong>Scratch</strong></em> — середовище та інтерпретована динамічна візуальна мова програмування, у якій код створюється шляхом маніпулювання графічними блоками. Середовище орієнтовано в першу чергу на дітей та початкове знайомство з основними концепціями та ідеями програмування. Завдяки динамічності, вона дає змогу змінювати код навіть під час виконання. Мова має за мету навчити дітей поняттю програмування і дає можливості створювати ігри, анімації чи музику. Користувачі можуть створювати онлайн-проєкти, ними можна обмінюватися всередині міжнародної спільноти, яка існує в мережі Інтернет. Середовище програмування можна безкоштовно завантажити і вільно використовувати у шкільній чи позашкільній освіті.</p>\n<p>На цьому курсі вас чекає 10 уроків по Scratch.</p>\n",
-      "image": "https://test-osvita-code-v2.github.io/scratch/assets/images/scratch.jpg",
-      "date_modified": "2021-06-11T16:47:39.083Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
@@ -169,7 +165,23 @@
       "summary": "Загублені в космосі Scratch",
       "content_html": "<h1 id=\"урок-1-загублені-в-космосі\"> Урок 1: Загублені в космосі</h1>\n<p>Спершу вам потрібно зареєструватися та ввійти до https://scratch.mit.edu/, ви це можете зробити на https://scratch.mit.edu/join, вам для реєстрації знадобиться також електронна скринька, якщо у вас її не має, то ви можете створити її на будь-якому ресурсі: protonmail, gmail.com, yahoo тощо.</p>\n<h3 id=\"створення-проєкту\"> Створення проєкту</h3>\n<p><a href=\"https://scratch.mit.edu/projects/editor/\" target=\"_blank\" rel=\"noopener noreferrer\">https://scratch.mit.edu/projects/editor/</a> - кликнувши на цей лінк ви перейдете до створення проєкту.</p>\n<h3 id=\"переименування-проєкту\"> Перейменування проєкту</h3>\n<p>Ось тут ми перейменуємо назву нашого проєкта на іншу.</p>\n<p><img src=\"https://test-osvita-code-v2.github.io/scratch/assets/images/name.png\" alt=\"name\" /></p>\n<p>Ось що вийшло.</p>\n<p><img src=\"https://test-osvita-code-v2.github.io/scratch/assets/images/rename.png\" alt=\"rename\" /></p>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/1.pdf\" width=\"840px\" height=\"4350px\" />\n",
       "image": "https://test-osvita-code-v2.github.io/scratch/assets/images/name.png",
-      "date_modified": "2021-06-11T16:47:39.084Z",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "RenatTOP"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Scratch programming",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/",
+      "content_html": "<h1 id=\"scratch-programming\"> Scratch programming</h1>\n<h2 id=\"навчись-створювати-ігри-зі-scratch\"> Навчись створювати ігри зі Scratch</h2>\n<p><img src=\"https://test-osvita-code-v2.github.io/scratch/assets/images/scratch.jpg\" alt=\"Scratch\" /></p>\n<p><em><strong>Scratch</strong></em> — середовище та інтерпретована динамічна візуальна мова програмування, у якій код створюється шляхом маніпулювання графічними блоками. Середовище орієнтовано в першу чергу на дітей та початкове знайомство з основними концепціями та ідеями програмування. Завдяки динамічності, вона дає змогу змінювати код навіть під час виконання. Мова має за мету навчити дітей поняттю програмування і дає можливості створювати ігри, анімації чи музику. Користувачі можуть створювати онлайн-проєкти, ними можна обмінюватися всередині міжнародної спільноти, яка існує в мережі Інтернет. Середовище програмування можна безкоштовно завантажити і вільно використовувати у шкільній чи позашкільній освіті.</p>\n<p>На цьому курсі вас чекає 10 уроків по Scratch.</p>\n",
+      "image": "https://test-osvita-code-v2.github.io/scratch/assets/images/scratch.jpg",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
           "name": "RenatTOP"
