@@ -5,7 +5,7 @@
   "feed_url": "https://test-osvita-code-v2.github.io/scratch/scratch/feed.json",
   "description": "Scratch programming by osvita-code",
   "author": {
-    "name": "RenatTOP"
+    "name": "Serhii73, RenatTOP, Anat0liy12"
   },
   "items": [
     {
@@ -18,7 +18,22 @@
       "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
-          "name": "RenatTOP"
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 2: Кіт та миша",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/",
+      "summary": "Кіт та миша Scratch",
+      "content_html": "<h1 id=\"урок-2-кіт-та-миша\"> Урок 2: Кіт та миша</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf\" width=\"840px\" height=\"4350px\" />\n",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
         }
       ],
       "tags": []
@@ -33,7 +48,112 @@
       "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
-          "name": "RenatTOP"
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 3: Чарівна куля",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/",
+      "summary": "Чарівна куля Scratch",
+      "content_html": "<h1 id=\"урок-3-чарівна-куля\"> Урок 3: Чарівна куля</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/3.pdf\" width=\"840px\" height=\"2200px\" />\n<p><a href=\"https://scratch.mit.edu/projects/350573440\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Чарівна куля&quot;</a></p>\n",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 4: Пінг-понг",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/",
+      "summary": "Пінг-понг Scratch",
+      "content_html": "<h1 id=\"урок-4-пінг-понг\"> Урок 4: Пінг-понг</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/4.pdf\" width=\"840px\" height=\"4350px\" />\n<p><a href=\"https://scratch.mit.edu/projects/351994663\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Пінг-понг&quot;</a></p>\n",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 5: Полювання на кажанів",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/",
+      "summary": "Полювання на кажанів Scratch",
+      "content_html": "<h1 id=\"урок-5-полювання-на-кажанів\"> Урок 5: Полювання на кажанів</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/5.pdf\" width=\"840px\" height=\"3280px\" />\n<p><a href=\"https://scratch.mit.edu/projects/354138435\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Полювання на кажанів&quot;</a></p>\n",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 6: Лабіринт",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/6/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/6/",
+      "summary": "Лабіринт Scratch",
+      "content_html": "<h1 id=\"урок-6-лабіринт\"> Урок 6: Лабіринт</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/6.pdf\" width=\"840px\" height=\"2200px\" />\n",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 7: Нахабний краб",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/",
+      "summary": "Нахабний краб Scratch",
+      "content_html": "<h1 id=\"урок-7-нахабнии-краб\"> Урок 7: Нахабний краб</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/7.pdf\" width=\"840px\" height=\"4350px\" />",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 8: Метелик",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/",
+      "summary": "Метелик Scratch",
+      "content_html": "<h1 id=\"урок-8-метелик\"> Урок 8: Метелик</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/8.pdf\" width=\"840px\" height=\"3280px\" />",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Урок 9: Змійка",
+      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/",
+      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/",
+      "summary": "Змійка Scratch",
+      "content_html": "<h1 id=\"урок-9-зміика\"> Урок 9: Змійка</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/9.pdf\" width=\"840px\" height=\"3280px\" />",
+      "date_published": "2021-06-11T16:51:09.000Z",
+      "date_modified": "2021-06-11T16:51:09.000Z",
+      "authors": [
+        {
+          "name": "Serhii73, RenatTOP, Anat0liy12"
         }
       ],
       "tags": []
@@ -49,127 +169,7 @@
       "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 2: Кіт та миша",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/",
-      "summary": "Кіт та миша Scratch",
-      "content_html": "<h1 id=\"урок-2-кіт-та-миша\"> Урок 2: Кіт та миша</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf\" width=\"840px\" height=\"4350px\" />\n",
-      "date_published": "2021-06-11T16:51:09.000Z",
-      "date_modified": "2021-06-11T16:51:09.000Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 3: Чарівна куля",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/",
-      "summary": "Чарівна куля Scratch",
-      "content_html": "<h1 id=\"урок-3-чарівна-куля\"> Урок 3: Чарівна куля</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/3.pdf\" width=\"840px\" height=\"2200px\" />\n<p><a href=\"https://scratch.mit.edu/projects/350573440\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Чарівна куля&quot;</a></p>\n",
-      "date_published": "2021-06-11T16:51:09.000Z",
-      "date_modified": "2021-06-11T16:51:09.000Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 4: Пінг-понг",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/",
-      "summary": "Пінг-понг Scratch",
-      "content_html": "<h1 id=\"урок-4-пінг-понг\"> Урок 4: Пінг-понг</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/4.pdf\" width=\"840px\" height=\"4350px\" />\n<p><a href=\"https://scratch.mit.edu/projects/351994663\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Пінг-понг&quot;</a></p>\n",
-      "date_published": "2021-06-11T16:51:09.000Z",
-      "date_modified": "2021-06-11T16:51:09.000Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 5: Полювання на кажанів",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/5/",
-      "summary": "Полювання на кажанів Scratch",
-      "content_html": "<h1 id=\"урок-5-полювання-на-кажанів\"> Урок 5: Полювання на кажанів</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/5.pdf\" width=\"840px\" height=\"3280px\" />\n<p><a href=\"https://scratch.mit.edu/projects/354138435\" target=\"_blank\" rel=\"noopener noreferrer\">Код проєкту &quot;Полювання на кажанів&quot;</a></p>\n",
-      "date_published": "2021-06-11T16:51:09.000Z",
-      "date_modified": "2021-06-11T16:51:09.000Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 6: Лабіринт",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/6/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/6/",
-      "summary": "Лабіринт Scratch",
-      "content_html": "<h1 id=\"урок-6-лабіринт\"> Урок 6: Лабіринт</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/6.pdf\" width=\"840px\" height=\"2200px\" />\n",
-      "date_published": "2021-06-11T16:51:09.000Z",
-      "date_modified": "2021-06-11T16:51:09.000Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 7: Нахабний краб",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/",
-      "summary": "Нахабний краб Scratch",
-      "content_html": "<h1 id=\"урок-7-нахабнии-краб\"> Урок 7: Нахабний краб</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/7.pdf\" width=\"840px\" height=\"4350px\" />",
-      "date_published": "2021-06-11T16:51:09.000Z",
-      "date_modified": "2021-06-11T16:51:09.000Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 8: Метелик",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/",
-      "summary": "Метелик Scratch",
-      "content_html": "<h1 id=\"урок-8-метелик\"> Урок 8: Метелик</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/8.pdf\" width=\"840px\" height=\"3280px\" />",
-      "date_published": "2021-06-11T16:51:09.000Z",
-      "date_modified": "2021-06-11T16:51:09.000Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Урок 9: Змійка",
-      "url": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/",
-      "id": "https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/",
-      "summary": "Змійка Scratch",
-      "content_html": "<h1 id=\"урок-9-зміика\"> Урок 9: Змійка</h1>\n<embed src=\"https://test-osvita-code-v2.github.io/scratch/assets/files/9.pdf\" width=\"840px\" height=\"3280px\" />",
-      "date_published": "2021-06-11T16:51:09.000Z",
-      "date_modified": "2021-06-11T16:51:09.000Z",
-      "authors": [
-        {
-          "name": "RenatTOP"
+          "name": "Serhii73, RenatTOP, Anat0liy12"
         }
       ],
       "tags": []
@@ -184,7 +184,7 @@
       "date_modified": "2021-06-11T16:51:09.000Z",
       "authors": [
         {
-          "name": "RenatTOP"
+          "name": "Serhii73, RenatTOP, Anat0liy12"
         }
       ],
       "tags": []

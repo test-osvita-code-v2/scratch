@@ -6,11 +6,11 @@
     <link>https://test-osvita-code-v2.github.io/scratch/scratch/</link>
     <description>Scratch programming by osvita-code</description>
     <language>en-US</language>
-    <pubDate>Sat, 12 Jun 2021 09:18:57 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Jun 2021 09:18:57 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 11:06:09 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 11:06:09 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <copyright>Copyright by RenatTOP</copyright>
+    <copyright>Copyright by Serhii73, RenatTOP, Anat0liy12</copyright>
     <item>
       <title>Scratch</title>
       <link>https://test-osvita-code-v2.github.io/scratch/scratch/</link>
@@ -22,36 +22,6 @@
 <Redirect to="/lessons/" />]]></content:encoded>
     </item>
     <item>
-      <title>Урок 10: Ловець кульок</title>
-      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</link>
-      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</guid>
-      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 10: Ловець кульок</source>
-      <description>Ловець кульок Scratch</description>
-      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-10-ловець-кульок"> Урок 10: Ловець кульок</h1>
-<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/10.pdf" width="840px" height="3280px" />]]></content:encoded>
-    </item>
-    <item>
-      <title>Урок 1: Загублені в космосі</title>
-      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/1/</link>
-      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/1/</guid>
-      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 1: Загублені в космосі</source>
-      <description>Загублені в космосі Scratch</description>
-      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-1-загублені-в-космосі"> Урок 1: Загублені в космосі</h1>
-<p>Спершу вам потрібно зареєструватися та ввійти до https://scratch.mit.edu/, ви це можете зробити на https://scratch.mit.edu/join, вам для реєстрації знадобиться також електронна скринька, якщо у вас її не має, то ви можете створити її на будь-якому ресурсі: protonmail, gmail.com, yahoo тощо.</p>
-<h3 id="створення-проєкту"> Створення проєкту</h3>
-<p><a href="https://scratch.mit.edu/projects/editor/" target="_blank" rel="noopener noreferrer">https://scratch.mit.edu/projects/editor/</a> - кликнувши на цей лінк ви перейдете до створення проєкту.</p>
-<h3 id="переименування-проєкту"> Перейменування проєкту</h3>
-<p>Ось тут ми перейменуємо назву нашого проєкта на іншу.</p>
-<p><img src="https://test-osvita-code-v2.github.io/scratch/assets/images/name.png" alt="name" /></p>
-<p>Ось що вийшло.</p>
-<p><img src="https://test-osvita-code-v2.github.io/scratch/assets/images/rename.png" alt="rename" /></p>
-<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/1.pdf" width="840px" height="4350px" />
-]]></content:encoded>
-      <enclosure url="https://test-osvita-code-v2.github.io/scratch/assets/images/name.png" type="image/png"/>
-    </item>
-    <item>
       <title>Урок 2: Кіт та миша</title>
       <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</link>
       <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</guid>
@@ -61,6 +31,16 @@
       <content:encoded><![CDATA[<h1 id="урок-2-кіт-та-миша"> Урок 2: Кіт та миша</h1>
 <embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf" width="840px" height="4350px" />
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>Урок 10: Ловець кульок</title>
+      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</link>
+      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</guid>
+      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 10: Ловець кульок</source>
+      <description>Ловець кульок Scratch</description>
+      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-10-ловець-кульок"> Урок 10: Ловець кульок</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/10.pdf" width="840px" height="3280px" />]]></content:encoded>
     </item>
     <item>
       <title>Урок 3: Чарівна куля</title>
@@ -138,6 +118,26 @@
       <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-9-зміика"> Урок 9: Змійка</h1>
 <embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/9.pdf" width="840px" height="3280px" />]]></content:encoded>
+    </item>
+    <item>
+      <title>Урок 1: Загублені в космосі</title>
+      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/1/</link>
+      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/1/</guid>
+      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 1: Загублені в космосі</source>
+      <description>Загублені в космосі Scratch</description>
+      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-1-загублені-в-космосі"> Урок 1: Загублені в космосі</h1>
+<p>Спершу вам потрібно зареєструватися та ввійти до https://scratch.mit.edu/, ви це можете зробити на https://scratch.mit.edu/join, вам для реєстрації знадобиться також електронна скринька, якщо у вас її не має, то ви можете створити її на будь-якому ресурсі: protonmail, gmail.com, yahoo тощо.</p>
+<h3 id="створення-проєкту"> Створення проєкту</h3>
+<p><a href="https://scratch.mit.edu/projects/editor/" target="_blank" rel="noopener noreferrer">https://scratch.mit.edu/projects/editor/</a> - кликнувши на цей лінк ви перейдете до створення проєкту.</p>
+<h3 id="переименування-проєкту"> Перейменування проєкту</h3>
+<p>Ось тут ми перейменуємо назву нашого проєкта на іншу.</p>
+<p><img src="https://test-osvita-code-v2.github.io/scratch/assets/images/name.png" alt="name" /></p>
+<p>Ось що вийшло.</p>
+<p><img src="https://test-osvita-code-v2.github.io/scratch/assets/images/rename.png" alt="rename" /></p>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/1.pdf" width="840px" height="4350px" />
+]]></content:encoded>
+      <enclosure url="https://test-osvita-code-v2.github.io/scratch/assets/images/name.png" type="image/png"/>
     </item>
     <item>
       <title>Scratch programming</title>
