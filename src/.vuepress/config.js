@@ -143,6 +143,7 @@ module.exports = config({
     ],
 
     themeConfig: {
+        contributor: false,
         pageInfo: false,
         darkmode: "switch",
         search: false,
