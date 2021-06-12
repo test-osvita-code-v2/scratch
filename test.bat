@@ -1,2 +1,1 @@
-del /q "build\*
-FOR /D %%p IN ("build\*.*") DO rmdir "%%p" /s /q
+xcopy "dist\*" "build\" /f /i /y /s

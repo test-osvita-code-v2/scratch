@@ -1,6 +1,6 @@
 @echo off
 
-copy /y "dist\*" "build\"
+xcopy "dist\*" "build\" /f /i /y /s
 
 cd build
 
