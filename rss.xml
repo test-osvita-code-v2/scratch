@@ -6,8 +6,8 @@
     <link>https://test-osvita-code-v2.github.io/scratch/scratch/</link>
     <description>Scratch programming by osvita-code</description>
     <language>en-US</language>
-    <pubDate>Sat, 12 Jun 2021 08:51:14 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Jun 2021 08:51:14 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 09:18:57 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 09:18:57 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by RenatTOP</copyright>
@@ -20,6 +20,16 @@
       <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="scratch"> Scratch</h1>
 <Redirect to="/lessons/" />]]></content:encoded>
+    </item>
+    <item>
+      <title>Урок 10: Ловець кульок</title>
+      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</link>
+      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</guid>
+      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 10: Ловець кульок</source>
+      <description>Ловець кульок Scratch</description>
+      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-10-ловець-кульок"> Урок 10: Ловець кульок</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/10.pdf" width="840px" height="3280px" />]]></content:encoded>
     </item>
     <item>
       <title>Урок 1: Загублені в космосі</title>
@@ -42,6 +52,17 @@
       <enclosure url="https://test-osvita-code-v2.github.io/scratch/assets/images/name.png" type="image/png"/>
     </item>
     <item>
+      <title>Урок 2: Кіт та миша</title>
+      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</link>
+      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</guid>
+      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 2: Кіт та миша</source>
+      <description>Кіт та миша Scratch</description>
+      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-2-кіт-та-миша"> Урок 2: Кіт та миша</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf" width="840px" height="4350px" />
+]]></content:encoded>
+    </item>
+    <item>
       <title>Урок 3: Чарівна куля</title>
       <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/</link>
       <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/3/</guid>
@@ -54,24 +75,15 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Урок 10: Ловець кульок</title>
-      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</link>
-      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/10/</guid>
-      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 10: Ловець кульок</source>
-      <description>Ловець кульок Scratch</description>
+      <title>Урок 4: Пінг-понг</title>
+      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/</link>
+      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/</guid>
+      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 4: Пінг-понг</source>
+      <description>Пінг-понг Scratch</description>
       <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-10-ловець-кульок"> Урок 10: Ловець кульок</h1>
-<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/10.pdf" width="840px" height="3280px" />]]></content:encoded>
-    </item>
-    <item>
-      <title>Урок 2: Кіт та миша</title>
-      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</link>
-      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/2/</guid>
-      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 2: Кіт та миша</source>
-      <description>Кіт та миша Scratch</description>
-      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-2-кіт-та-миша"> Урок 2: Кіт та миша</h1>
-<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/2.pdf" width="840px" height="4350px" />
+      <content:encoded><![CDATA[<h1 id="урок-4-пінг-понг"> Урок 4: Пінг-понг</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/4.pdf" width="840px" height="4350px" />
+<p><a href="https://scratch.mit.edu/projects/351994663" target="_blank" rel="noopener noreferrer">Код проєкту &quot;Пінг-понг&quot;</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -98,18 +110,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Урок 4: Пінг-понг</title>
-      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/</link>
-      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/4/</guid>
-      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 4: Пінг-понг</source>
-      <description>Пінг-понг Scratch</description>
-      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-4-пінг-понг"> Урок 4: Пінг-понг</h1>
-<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/4.pdf" width="840px" height="4350px" />
-<p><a href="https://scratch.mit.edu/projects/351994663" target="_blank" rel="noopener noreferrer">Код проєкту &quot;Пінг-понг&quot;</a></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Урок 7: Нахабний краб</title>
       <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/</link>
       <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/7/</guid>
@@ -120,16 +120,6 @@
 <embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/7.pdf" width="840px" height="4350px" />]]></content:encoded>
     </item>
     <item>
-      <title>Урок 9: Змійка</title>
-      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/</link>
-      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/</guid>
-      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 9: Змійка</source>
-      <description>Змійка Scratch</description>
-      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="урок-9-зміика"> Урок 9: Змійка</h1>
-<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/9.pdf" width="840px" height="3280px" />]]></content:encoded>
-    </item>
-    <item>
       <title>Урок 8: Метелик</title>
       <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/</link>
       <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/8/</guid>
@@ -138,6 +128,16 @@
       <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="урок-8-метелик"> Урок 8: Метелик</h1>
 <embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/8.pdf" width="840px" height="3280px" />]]></content:encoded>
+    </item>
+    <item>
+      <title>Урок 9: Змійка</title>
+      <link>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/</link>
+      <guid>https://test-osvita-code-v2.github.io/scratch/scratch/lessons/9/</guid>
+      <source url="https://test-osvita-code-v2.github.io/scratch/scratch/rss.xml">Урок 9: Змійка</source>
+      <description>Змійка Scratch</description>
+      <pubDate>Fri, 11 Jun 2021 16:51:09 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="урок-9-зміика"> Урок 9: Змійка</h1>
+<embed src="https://test-osvita-code-v2.github.io/scratch/assets/files/9.pdf" width="840px" height="3280px" />]]></content:encoded>
     </item>
     <item>
       <title>Scratch programming</title>
