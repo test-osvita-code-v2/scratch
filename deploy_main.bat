@@ -1,8 +1,8 @@
 @echo off
 
-xcopy "dist\*" "build\" /f /i /y /s
+xcopy "dist\*" "scratch\" /f /i /y /s
 
-cd build
+cd scratch
 
 git checkout main
 git add .

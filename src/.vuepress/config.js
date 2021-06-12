@@ -147,9 +147,10 @@ module.exports = config({
         pageInfo: false,
         darkmode: "switch",
         search: false,
+        pwa: false,
         hostname: "https://test-osvita-code-v2.github.io/scratch/",
         logo: "/assets/images/icons/favicon-96x96.png",
-        author: "RenatTOP",
+        author: "Serhii73, RenatTOP, Anat0liy12",
 
         nav: [
             {

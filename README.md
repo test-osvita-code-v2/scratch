@@ -9,6 +9,8 @@ Running dev server
 npm run dev
 ```
 
+### Ветку dev клонировать в любое расположение, зайти в склонированную папку и клонировать в неё ветку main
+
 Deploy for Windows
 
 - dev branch

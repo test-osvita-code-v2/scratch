@@ -1,1 +1,0 @@
-xcopy "dist\*" "build\" /f /i /y /s
