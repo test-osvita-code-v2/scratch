@@ -164,7 +164,7 @@ module.exports = config({
             },
             {
                 text: "mBots",
-                link: "https://test-osvita-code-v2.github.io/robot",
+                link: "https://test-osvita-code-v2.github.io/robotics",
                 target: "_self",
             },
         ],
